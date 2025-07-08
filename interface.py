@@ -56,7 +56,7 @@ questoes_prova = [
 
 # --- Configuração da Página Streamlit ---
 st.set_page_config(layout="centered", page_title="Caderno de Provas")
-st.title("📚 Caderno de Provas MVP")
+st.title("📚 Caderno de Prova de Conhecimentos Gerais")
 st.markdown("---")
 
 # --- Inicializa o estado da sessão ---
